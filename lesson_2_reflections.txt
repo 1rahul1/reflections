@@ -16,3 +16,6 @@ arrows give the direction of the parent
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 it merges 2 or more branches.to keep track of parent and children
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+when git is not able to resolve conflicts itself then it lets us do by manual procedure
+
